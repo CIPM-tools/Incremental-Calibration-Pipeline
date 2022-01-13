@@ -8,7 +8,9 @@ The steps to setup the calibration pipeline are found on [wiki](https://github.c
 
 ## Related Publications
 The related publication for this repository are the following:
+
 -**[ICSA 2020](http://icsa-conferences.org/2020/index.html)**: Manar Mazkatli, David Monschein, Johannes Grohmann, and Anne Koziolek; [Incremental calibration of architectural performance models with parametric dependencies]( https://sdqweb.ipd.kit.edu/publications/pdfs/mazkatli2020a.pdf).
+
 -**[Qudous 2018](http://2018.qudos-workshop.org/)**: Manar Mazkatli and Anne Koziolek; [Continuous integration of performance model]( https://sdqweb.ipd.kit.edu/publications/pdfs/Mazkatli2018Qudos1.pdf).
 
 More publications on the CIPM approach are found [here.](https://are.ipd.kit.edu/people/manar-mazkatli/publications/) 
