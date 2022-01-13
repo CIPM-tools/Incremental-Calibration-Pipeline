@@ -13,7 +13,7 @@ The related publication for this repository are the following:
 
 More publications on the CIPM approach are found [here.](https://are.ipd.kit.edu/people/manar-mazkatli/publications/) 
 ## Evaluation of ICSA20 
-For evaluation the experements described in [ICSA20 paper](https://sdqweb.ipd.kit.edu/publications/pdfs/mazkatli2020a.pdf), you can follow the instructions of the [evaluation automation platform](https://github.com/CIPM-tools/Incremental-Calibration-Pipeline/tree/master/evaluation/evaluation-automation-platform).
+For evaluating the experements described in [ICSA20 paper](https://sdqweb.ipd.kit.edu/publications/pdfs/mazkatli2020a.pdf), you can follow the instructions of the [evaluation automation platform](https://github.com/CIPM-tools/Incremental-Calibration-Pipeline/tree/master/evaluation/evaluation-automation-platform).
 -  The evaluation of the experement on [CoCoMe](https://github.com/cocome-community-case-study/cocome-cloud-jee-platform-migration) case study (BookSale Calibration) can be found [here](https://github.com/CIPM-tools/Incremental-Calibration-Pipeline/tree/master/evaluation/evaluation-automation-platform/src/main/java/paper/evaluation/automation/start/cocome).
 - The evaluation of the experements on [TeaStore](https://github.com/CIPM-tools/TeaStore) casestudy (train calibration, trainForRecommender calibration) can be found under [this link.](https://github.com/CIPM-tools/Incremental-Calibration-Pipeline/tree/master/evaluation/evaluation-automation-platform/src/main/java/paper/evaluation/automation/start/teastore)
 ## Note
